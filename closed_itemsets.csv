@@ -1,0 +1,37 @@
+support,itemsets,size
+0.9423437868427258,frozenset({'covid19'}),1
+0.09595850035369016,frozenset({'coronavirus'}),1
+0.005074274935156803,frozenset({'indiafightscorona'}),1
+0.0121669417590191,frozenset({'covid'}),1
+0.008318792737561895,frozenset({'coronaviruspandemic'}),1
+0.006800282952133931,frozenset({'coronavirusupdate'}),1
+0.007479368073567555,frozenset({'wearamask'}),1
+0.010290025937278943,frozenset({'trump'}),1
+0.0153171421834473,frozenset({'pandemic'}),1
+0.01104456496109408,frozenset({'india'}),1
+0.007790615420891299,frozenset({'covid_19'}),1
+0.006592784720584768,frozenset({'vaccine'}),1
+0.006649375147370903,frozenset({'odisha'}),1
+0.009063900023579345,frozenset({'lockdown'}),1
+0.01095024758311719,frozenset({'corona'}),1
+0.005083706672954492,frozenset({'china'}),1
+0.07734968167884933,"frozenset({'coronavirus', 'covid19'})",2
+0.009158217401556236,"frozenset({'covid', 'covid19'})",2
+0.007866069323272813,"frozenset({'coronaviruspandemic', 'covid19'})",2
+0.006677670360763971,"frozenset({'coronavirus', 'coronaviruspandemic'})",2
+0.006573921244989389,"frozenset({'coronavirus', 'coronaviruspandemic', 'covid19'})",3
+0.006583352982787079,"frozenset({'covid19', 'coronavirusupdate'})",2
+0.006102334355104928,"frozenset({'coronavirus', 'coronavirusupdate'})",2
+0.005951426550341901,"frozenset({'coronaviruspandemic', 'coronavirusupdate'})",2
+0.006055175666116482,"frozenset({'covid19', 'coronavirus', 'coronavirusupdate'})",3
+0.0059419948125442115,"frozenset({'coronavirus', 'coronaviruspandemic', 'coronavirusupdate'})",3
+0.005904267861353454,"frozenset({'covid19', 'coronavirus', 'coronaviruspandemic', 'coronavirusupdate'})",4
+0.005894836123555765,"frozenset({'wearamask', 'covid19'})",2
+0.0060363121905211035,"frozenset({'trump', 'covid19'})",2
+0.012449893892949777,"frozenset({'covid19', 'pandemic'})",2
+0.0081395897194058,"frozenset({'india', 'covid19'})",2
+0.006771987738740863,"frozenset({'covid_19', 'covid19'})",2
+0.005621315727422777,"frozenset({'vaccine', 'covid19'})",2
+0.006168356519688753,"frozenset({'odisha', 'covid19'})",2
+0.006611648196180146,"frozenset({'lockdown', 'covid19'})",2
+0.008677198773874087,"frozenset({'corona', 'covid19'})",2

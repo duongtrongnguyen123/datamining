@@ -1,0 +1,14 @@
+support,itemsets,size
+0.005074274935156803,frozenset({'indiafightscorona'}),1
+0.005083706672954492,frozenset({'china'}),1
+0.009158217401556236,"frozenset({'covid', 'covid19'})",2
+0.005904267861353454,"frozenset({'covid19', 'coronavirus', 'coronaviruspandemic', 'coronavirusupdate'})",4
+0.005894836123555765,"frozenset({'wearamask', 'covid19'})",2
+0.0060363121905211035,"frozenset({'trump', 'covid19'})",2
+0.012449893892949777,"frozenset({'covid19', 'pandemic'})",2
+0.0081395897194058,"frozenset({'india', 'covid19'})",2
+0.006771987738740863,"frozenset({'covid_19', 'covid19'})",2
+0.005621315727422777,"frozenset({'vaccine', 'covid19'})",2
+0.006168356519688753,"frozenset({'odisha', 'covid19'})",2
+0.006611648196180146,"frozenset({'lockdown', 'covid19'})",2
+0.008677198773874087,"frozenset({'corona', 'covid19'})",2

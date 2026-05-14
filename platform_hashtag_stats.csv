@@ -1,0 +1,154 @@
+platform,hashtag,count,pct_in_platform
+Twitter Web,coronavirus,2863,8.650330845695985
+Twitter Web,covid19,30986,93.62177840891924
+Twitter Web,indiafightscorona,199,0.6012629543463154
+Twitter Web,covid,528,1.5953107532404749
+Twitter Web,pandemic,566,1.710124784723691
+Twitter Web,wearamask,174,0.5257274073178838
+Twitter Web,usa,211,0.6375200169199625
+Twitter Web,trump,472,1.4261111278967882
+Twitter Web,lockdown,253,0.7644197359277276
+Twitter Web,odisha,389,1.1753331117623955
+Twitter Web,vaccine,260,0.7855696890956884
+Twitter Web,china,263,0.7946339547391003
+Twitter Web,covid_19,255,0.7704625796900021
+Twitter Web,staysafe,164,0.4955131885065111
+Twitter Web,coronaviruspandemic,92,0.27797081306462823
+Twitter Web,india,511,1.5439465812611415
+Twitter Web,coronavirusupdates,158,0.4773846572196876
+Twitter Web,corona,226,0.6828413451370214
+Twitter Web,breaking,194,0.586155844940629
+Twitter Web,coronavirusupdate,28,0.08459981267184337
+Twitter Android,covid19,23098,95.67558611548338
+Twitter Android,coronavirusupdates,251,1.039681882197001
+Twitter Android,covid,276,1.1432358545273797
+Twitter Android,coronavirus,1766,7.315052605417943
+Twitter Android,pandemic,256,1.0603926766630767
+Twitter Android,odisha,210,0.8698533675751802
+Twitter Android,coronavirusupdate,18,0.07455886007787259
+Twitter Android,trump,240,0.9941181343716345
+Twitter Android,india,315,1.3047800513627703
+Twitter Android,wearamask,212,0.8781376853616105
+Twitter Android,staysafe,149,0.6171816750890564
+Twitter Android,lockdown,241,0.9982602932648497
+Twitter Android,indiafightscorona,296,1.2260790323916826
+Twitter Android,breaking,148,0.6130395161958413
+Twitter Android,covid_19,230,0.9526965454394831
+Twitter Android,vaccine,132,0.5467649739043989
+Twitter Android,corona,193,0.7994366663905227
+Twitter Android,usa,104,0.43078452489437496
+Twitter Android,china,85,0.3520835059232872
+Twitter Android,coronaviruspandemic,55,0.2278187391268329
+Twitter iPhone,covid19,20188,96.45484949832776
+Twitter iPhone,coronavirus,1387,6.626851409460105
+Twitter iPhone,wearamask,291,1.3903487816531295
+Twitter iPhone,covid,261,1.2470138557095078
+Twitter iPhone,covid_19,116,0.5542283803153368
+Twitter iPhone,trump,199,0.9507883420926899
+Twitter iPhone,vaccine,140,0.6688963210702341
+Twitter iPhone,coronavirusupdate,21,0.1003344481605351
+Twitter iPhone,coronaviruspandemic,47,0.22455805064500717
+Twitter iPhone,pandemic,266,1.2709030100334449
+Twitter iPhone,corona,100,0.4777830864787387
+Twitter iPhone,lockdown,151,0.7214524605828954
+Twitter iPhone,usa,94,0.44911610129001434
+Twitter iPhone,staysafe,67,0.3201146679407549
+Twitter iPhone,china,78,0.37267080745341613
+Twitter iPhone,indiafightscorona,18,0.08600095556617296
+Twitter iPhone,breaking,72,0.34400382226469184
+Twitter iPhone,coronavirusupdates,47,0.22455805064500717
+Twitter iPhone,india,102,0.48733874820831347
+Twitter iPhone,odisha,14,0.06688963210702341
+Other,covid19,13467,92.54398020890599
+Other,coronavirus,3034,20.849367784496977
+Other,coronavirusupdate,637,4.377405167674547
+Other,coronaviruspandemic,627,4.3086860912589335
+Other,trump,80,0.5497526113249038
+Other,india,145,0.9964266080263882
+Other,corona,619,4.253710830126443
+Other,coronavirusupdates,42,0.2886201209455745
+Other,covid_19,192,1.319406267179769
+Other,staysafe,73,0.5016492578339746
+Other,covid,111,0.762781748213304
+Other,lockdown,174,1.1957119296316658
+Other,pandemic,292,2.0065970313358985
+Other,china,42,0.2886201209455745
+Other,wearamask,79,0.5428807036833425
+Other,usa,33,0.22677295217152282
+Other,breaking,29,0.19928532160527762
+Other,vaccine,71,0.48790544255085216
+Other,indiafightscorona,9,0.06184716877405168
+Other,odisha,78,0.5360087960417812
+TweetDeck,covid19,5199,94.63050600655261
+TweetDeck,coronavirus,525,9.555879140880961
+TweetDeck,vaccine,36,0.6552602839461231
+TweetDeck,lockdown,69,1.2559155442300691
+TweetDeck,covid,60,1.0921004732435384
+TweetDeck,india,81,1.474335638878777
+TweetDeck,coronavirusupdates,18,0.32763014197306156
+TweetDeck,china,38,0.691663633054241
+TweetDeck,odisha,16,0.2912267928649436
+TweetDeck,pandemic,69,1.2559155442300691
+TweetDeck,coronaviruspandemic,56,1.0192937750273026
+TweetDeck,breaking,32,0.5824535857298871
+TweetDeck,indiafightscorona,13,0.23662176920276665
+TweetDeck,trump,5,0.09100837277029487
+TweetDeck,staysafe,10,0.18201674554058975
+TweetDeck,covid_19,10,0.18201674554058975
+TweetDeck,corona,9,0.16381507098653078
+TweetDeck,usa,6,0.10921004732435385
+TweetDeck,wearamask,8,0.1456133964324718
+TweetDeck,coronavirusupdate,7,0.12741172187841282
+Hootsuite,covid19,3513,93.45570630486831
+Hootsuite,pandemic,78,2.0750199521149244
+Hootsuite,coronavirus,286,7.608406491088056
+Hootsuite,staysafe,19,0.5054535780792765
+Hootsuite,lockdown,39,1.0375099760574622
+Hootsuite,trump,14,0.37243947858473
+Hootsuite,china,7,0.186219739292365
+Hootsuite,covid,33,0.8778930566640064
+Hootsuite,covid_19,8,0.2128225591912743
+Hootsuite,coronavirusupdate,3,0.07980845969672785
+Hootsuite,india,17,0.4522479382814578
+Hootsuite,indiafightscorona,2,0.053205639797818574
+Hootsuite,wearamask,15,0.39904229848363926
+Hootsuite,corona,5,0.13301409949454643
+Hootsuite,vaccine,34,0.9044958765629156
+Hootsuite,usa,5,0.13301409949454643
+Hootsuite,breaking,2,0.053205639797818574
+Hootsuite,coronaviruspandemic,1,0.026602819898909287
+Twitter iPad,covid19,2529,95.97722960151802
+Twitter iPad,coronaviruspandemic,3,0.11385199240986717
+Twitter iPad,coronavirus,219,8.311195445920303
+Twitter iPad,pandemic,41,1.555977229601518
+Twitter iPad,covid_19,16,0.6072106261859582
+Twitter iPad,trump,85,3.225806451612903
+Twitter iPad,china,18,0.683111954459203
+Twitter iPad,usa,27,1.0246679316888045
+Twitter iPad,lockdown,22,0.8349146110056925
+Twitter iPad,vaccine,17,0.6451612903225806
+Twitter iPad,coronavirusupdate,7,0.2656546489563567
+Twitter iPad,wearamask,14,0.5313092979127134
+Twitter iPad,covid,24,0.9108159392789373
+Twitter iPad,staysafe,4,0.15180265654648956
+Twitter iPad,india,8,0.3036053130929791
+Twitter iPad,corona,5,0.18975332068311196
+Twitter iPad,coronavirusupdates,5,0.18975332068311196
+Twitter iPad,breaking,2,0.07590132827324478
+Buffer,covid19,1332,94.0677966101695
+Buffer,coronavirus,117,8.26271186440678
+Buffer,pandemic,57,4.025423728813559
+Buffer,usa,3,0.211864406779661
+Buffer,lockdown,14,0.9887005649717515
+Buffer,india,14,0.9887005649717515
+Buffer,corona,5,0.3531073446327684
+Buffer,staysafe,10,0.7062146892655368
+Buffer,china,13,0.9180790960451978
+Buffer,covid,6,0.423728813559322
+Buffer,vaccine,13,0.9180790960451978
+Buffer,breaking,1,0.07062146892655367
+Buffer,wearamask,7,0.49435028248587576
+Buffer,trump,6,0.423728813559322
+Buffer,covid_19,1,0.07062146892655367
+Buffer,coronaviruspandemic,1,0.07062146892655367
+Buffer,indiafightscorona,1,0.07062146892655367

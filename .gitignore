@@ -1,0 +1,6 @@
+covid19_tweets.csv
+transactions_onehot.csv
+transactions_list.csv
+*.zip
+__pycache__/
+*.pyc
