@@ -181,7 +181,8 @@
   \begin{columns}[T]
     \begin{column}{0.48\textwidth}
       \begin{block}{Thuật toán Apriori}
-        \begin{itemize}
+        \small
+        \begin{itemize}\setlength{\itemsep}{1pt}
           \item Sinh tập phổ biến theo từng mức (breadth-first)
           \item Cắt tỉa các tập không đạt ngưỡng support
           \item Dễ hiểu, trực quan
@@ -191,7 +192,8 @@
     \end{column}
     \begin{column}{0.48\textwidth}
       \begin{block}{Thuật toán FP-Growth}
-        \begin{itemize}
+        \small
+        \begin{itemize}\setlength{\itemsep}{1pt}
           \item Xây dựng cây FP-tree nén
           \item Không sinh ứng viên -- nhanh hơn nhiều
           \item Cho kết quả \textbf{giống hệt Apriori}
@@ -201,10 +203,10 @@
     \end{column}
   \end{columns}
 
-  \vspace{0.8em}
+  \vspace{0.3em}
 
   \begin{block}{Tham số thực nghiệm}
-    \centering
+    \small\centering
     \begin{tabular}{lll}
       \toprule
       \textbf{Tham số} & \textbf{Giá trị} & \textbf{Ý nghĩa} \\
